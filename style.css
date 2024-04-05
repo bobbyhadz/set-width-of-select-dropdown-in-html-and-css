@@ -1,0 +1,7 @@
+select {
+  width: 300px;
+}
+
+select option {
+  width: 300px;
+}
